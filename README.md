@@ -1,0 +1,2 @@
+# LeoEcsMin
+LeoEcs Template (Minimal)
